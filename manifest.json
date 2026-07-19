@@ -1,0 +1,10 @@
+{
+  "id": "travel-helper",
+  "name": "出行助手",
+  "version": "1.0.0",
+  "description": "一个简易的出行票务查询与酒店推荐工具，底部导航含首页、精选、占位、消息、我。",
+  "author": "朵朵",
+  "entry": "https://raw.githubusercontent.com/Yff316/travel-helper/main/plugin.js",
+  "hash": "",
+  "permissions": ["storage", "ui"]
+}
